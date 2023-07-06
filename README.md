@@ -1,11 +1,11 @@
-# Movie Sentiment Analysis - Binary Classification using Bag of Words Jupyter Notebook
+# Movie Sentiment Analysis - Binary Classification using Bag of Words 🎥
 
 ![image](https://github.com/keerthikkn/NLP_Sentiment_Analysis/assets/42544473/f4464b7e-8d5c-48fd-9d1d-f5676e32e76f)
 
 
 This Jupyter Notebook aims to perform sentiment analysis on movie reviews by building a binary classification model using the Bag of Words technique. The model will predict whether a given movie review expresses positive or negative sentiment.
 
-## Dataset
+## Dataset 📂
 
 The dataset used for this project consists of a collection of movie reviews labeled with sentiment (positive or negative). Each review is preprocessed and represented as a bag of words, where each word represents a feature.
 
@@ -64,6 +64,7 @@ README.md
 6. Modify the notebook as needed to suit your specific requirements.
 
 ## Conclusion
-### performance ![image](https://github.com/keerthikkn/NLP_Sentiment_Analysis/assets/42544473/77d80be6-0f09-4474-9002-7172635dd280)
+### performance 📊
+![image](https://github.com/keerthikkn/NLP_Sentiment_Analysis/assets/42544473/77d80be6-0f09-4474-9002-7172635dd280)
 
 This Movie Sentiment Analysis project provides a Jupyter Notebook implementation of binary classification using the Bag of Words technique. By following the instructions above and executing the cells in the notebook, you can preprocess the data, train a model, evaluate its performance, and make predictions on new movie reviews. Feel free to modify and extend the notebook to suit your specific needs.
